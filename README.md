@@ -1,3 +1,8 @@
-# css-transitions
+# CSS Transitions
 
-You should put a description of your project here, plus any setup instructions for other developers, if necessary.
+CSS Transitions Examples
+
+## Demos
+
+- **Basics**: http://bitmakerlabs.github.io/css-transitions/
+- **Hamburger**: http://bitmakerlabs.github.io/css-transitions/hamburger.html
